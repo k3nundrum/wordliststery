@@ -1,0 +1,1033 @@
+Find Admin Panel Of Any Website Using Google Dorks 
+
+Find PHP-based Login Websites using these dorks:
+
+  1. inurl:admin/index.php
+
+  2. inurl:administrator.php
+
+  3. inurl:login.php
+
+  4. inurl:admin/index.php
+
+  5. "inurl:admin/add_admin.php"
+
+  6. "inurl:admin/addaccount.php"
+
+  7. "inurl:admin/additem.php"
+
+  8. "inurl:admin/addpage.php"
+
+  9. "inurl:admin/addshow.php"
+
+  10. "inurl:admin/addstore.php"
+
+  11. "inurl:admin/addstory.php"
+
+  12. "inurl:admin/admin_area.php"
+
+  13. "inurl:admin/admin_detail.php"
+
+  14. "inurl:admin/manage.php"
+
+  15. "inurl:admin/product_add.php"
+
+  16. "inurl:admin/upload.php"
+
+  17. Server.php
+
+  18. account.php
+
+  19. admin.php
+
+  20. admin/account.php
+
+  21. admin/controlpanel.php
+
+  22. admin/cp.php
+
+  23. admin/home.php
+
+  24. admin/index.php
+
+  25. admin/login.php
+
+  26. admin1.php
+
+  27. admin2.php
+
+  28. admincontrol.php
+
+  29. administr8.php
+
+  30. administration.php
+
+  31. administrator.php
+
+  32. administrator/account.php
+
+  33. administrator/index.php
+
+  34. administrator/login.php
+
+  35. adminpanel.php
+
+  36. admins.php
+
+  37. controlpanel.php
+
+  38. cp.php
+
+  39. fileadmin.php
+
+  40. inurl:admin/index.php
+
+  41. inurl:adminPanel/index.php
+
+  42. inurl:administrator.php
+
+  43. inurl:login.php
+
+  44. modelsearch/login.php
+
+  45. moderator.php
+
+  46. moderator/admin.php
+
+  47. moderator/login.php
+
+  48. phpSQLiteAdmin/
+
+  49. phpldapadmin/
+
+  50. phpmyadmin/
+
+  51. phppgadmin/
+
+  52. sysadmin.php
+
+  53. ur-admin.php
+
+  54. webadmin.php
+
+  55. wp-login.php
+
+  56. yonetici.php
+
+  57. yonetim.php
+
+Find HTML-based Login Panels using these dorks:
+      1. Server.html
+
+      2. account.html
+
+      3. admin.html
+
+      4. admin/account.html
+
+      5. admin/adminLogin.html
+
+      6. admin/controlpanel.html
+
+      7. admin/cp.html
+
+      8. admin/index.html
+
+      9. admin/login.html
+
+      10. admin1.html
+
+      11. admin2.html
+
+      12. admincontrol.html
+
+      13. administr8.html
+
+      14. administration.html
+
+      15. administrator.html
+
+      16. administrator/account.html
+
+      17. administrator/index.html
+
+      18. administrator/login.html
+
+      19. adminpanel.html
+
+      20. admins.html
+
+      21. bb-admin/admin.html
+
+      22. controlpanel.html
+
+      23. cp.html
+
+      24. fileadmin.html
+
+      25. login.html
+
+      26. moderator.html
+
+      27. moderator/admin.html
+
+      28. moderator/login.html
+
+      29. relogin.html
+
+      30. sysadmin.html
+
+      31. ur-admin.html
+
+      32. webadmin.html
+
+      33. yonetici.html
+
+      34. yonetim.html
+
+
+
+Find ASP/ASPX-based Admin Login Page using these dorks:
+
+  1. inurl:adminlogin.aspx
+
+  2. inurl:adminlogin.aspx
+
+  3. inurl:login.aspx
+
+  4. "inurl:admin/add_admin.asp"
+
+  5. "inurl:admin/addadmin.asp"
+
+  6. "inurl:admin/addarticle.asp"
+
+  7. "inurl:admin/addcat.asp"
+
+  8. "inurl:admin/addfile.asp"
+
+  9. "inurl:admin/addinfo.asp"
+
+  10. "inurl:admin/addjob.asp"
+
+  11. "inurl:admin/addmember.asp"
+
+  12. "inurl:admin/addnews.asp"
+
+  13. "inurl:admin/addproduct.asp"
+
+  14. "inurl:admin/adminuser.asp"
+
+  15. "inurl:admin/cp.asp"
+
+  16. "inurl:admin/gallery.asp"
+
+  17. "inurl:admin/image.asp"
+
+  18. "inurl:admin/productadd.asp"
+
+  19. "inurl:admin/productshow.asp"
+
+  20. "inurl:admin/upload.asp"
+
+  21. "inurl:admin/user.asp"
+
+  22. Server.asp
+
+  23. account.asp
+
+  24. admin.asp
+
+  25. admin/account.asp
+
+  26. admin/controlpanel.asp
+
+  27. admin/cp.asp
+
+  28. admin/home.asp
+
+  29. admin/index.asp
+
+  30. admin/login.asp
+
+  31. admin1.asp
+
+  32. admin2.asp
+
+  33. admincontrol.asp
+
+  34. administr8.asp
+
+  35. administrator.asp
+
+  36. administrator/account.asp
+
+  37. administrator/index.asp
+
+  38. administrator/login.asp
+
+  39. adminpanel.asp
+
+  40. admins.asp
+
+  41. controlpanel.asp
+
+  42. cp.asp
+
+  43. fileadmin.asp
+
+  44. inurl:administrator.asp
+
+  45. inurl:adminlogin.aspx
+
+  46. inurl:adminlogin.aspx
+
+  47. inurl:login.asp
+
+  48. inurl:login.aspx
+
+  49. login.asp
+
+  50. modelsearch/login.asp
+
+  51. moderator.asp
+
+  52. moderator/admin.asp
+
+  53. moderator/login.asp
+
+  54. sysadmin.asp
+
+  55. ur-admin.asp
+
+  56. webadmin.asp
+
+  57. yonetici.asp
+
+  58. yonetim.asp
+
+  59. inurl:login.asp
+
+  60. inurl:login.aspx
+
+  61. inurl:adminlogin.aspx
+
+  62. inurl:administrator.asp
+
+  63. inurl:adminlogin.aspx
+
+More Google Dorks to find Admin Panels Online
+
+  1. "allinurl:admin/addfile.???"
+
+  2. "inurl"inurl:admin/addforum.???"
+
+  3. "inurl:admin/add_Products.???"
+
+  4. "inurl:admin/addblog.????"
+
+  5. "inurl:admin/addcat.???"
+
+  6. "inurl:admin/addcity.???"
+
+  7. "inurl:admin/addcode.???"
+
+  8. "inurl:admin/addcompany.???"
+
+  9. "inurl:admin/addcontact.???"
+
+  10. "inurl:admin/addcountry.???"
+
+  11. "inurl:admin/addemployee.???"
+
+  12. "inurl:admin/addgame.???"
+
+  13. "inurl:admin/addjob.???"
+
+  14. "inurl:admin/addlinks.???"
+
+  15. "inurl:admin/addmedia.???"
+
+  16. "inurl:admin/addmovie.???"
+
+  17. "inurl:admin/addpassword.???"
+
+  18. "inurl:admin/addpic.???"
+
+  19. "inurl:admin/addpost"
+
+  20. "inurl:admin/addproject.???"
+
+  21. "inurl:admin/addsale.???"
+
+  22. "inurl:admin/addschool.???"
+
+  23. "inurl:admin/addstate.???"
+
+  24. "inurl:admin/admin.???"
+
+  25. "inurl:admin/admincp.???"
+
+  26. "inurl:admin/payment.???"
+
+  27. "inurl:admin/selectitem.???"
+
+  28. "inurl:admin/settings.???"
+
+  29. "inurl:admin/showbook.???"
+
+  30. "inurl:admin/viewmanager.???"
+
+  31. "inurl:admin/viewproduct.???"
+
+  32. "inurl:user/emp.???"
+
+  33. 0admin/
+
+  34. 0manager/
+
+  35. AdminTools/
+
+  36. Database_Administration/
+
+  37. Indy_admin/
+
+  38. LiveUser_Admin/
+
+  39. Lotus_Domino_Admin/
+
+  40. PSUser/
+
+  41. Server/
+
+  42. ServerAdministrator/
+
+  43. Super-Admin/
+
+  44. SysAdmin/
+
+  45. SysAdmin2/
+
+  46. UserLogin/
+
+  47. WebAdmin/
+
+  48. aadmin/
+
+  49. access/
+
+  50. accounts/
+
+  51. acct_login/
+
+  52. adm/
+
+  53. admin.htm
+
+  54. admin/
+
+  55. admin/adminLogin.htm
+
+  56. admin/controlpanel.htm
+
+  57. admin/login.htm
+
+  58. admin1.htm
+
+  59. admin1/
+
+  60. admin4_account/
+
+  61. admin4_colon/
+
+  62. adminLogin/
+
+  63. admin_area/
+
+  64. adminarea/
+
+  65. admincontrol/
+
+  66. admincp/
+
+  67. administer/
+
+  68. administr8/
+
+  69. administratie/
+
+  70. administration/
+
+  71. administrator/
+
+  72. administratoraccounts/
+
+  73. administratorlogin/
+
+  74. administrators/
+
+  75. administrivia/
+
+  76. adminitem/
+
+  77. adminitems/
+
+  78. adminpanel/
+
+  79. adminpro/
+
+  80. admins/
+
+  81. adminsite/
+
+  82. autologin/
+
+  83. banneradmin/
+
+  84. bb-admin/
+
+  85. bbadmin/
+
+  86. bigadmin/
+
+  87. blogindex/
+
+  88. cPanel/
+
+  89. cadmins/
+
+  90. ccp14admin/
+
+  91. cmsadmin/
+
+  92. control/
+
+  93. controlpanel/
+
+  94. cp/
+
+  95. cpanel/
+
+  96. cpanel_file/
+
+  97. customer_login/
+
+  98. database_administration/
+
+  99. dir-login/ directadmin/
+
+  100.ezsqliteadmin/
+
+  101.fileadmin/
+
+  102.formslogin/
+
+  103.globes_admin/
+
+  104.hpwebjetadmin/
+
+  105.instadmin/
+
+  106.irc-macadmin/
+
+  107.kpanel/
+
+  108.letmein/
+
+  109.log-in/
+
+  110.log_in/
+
+  111.login-redirect/
+
+  112.login-us/
+
+  113.login.htm
+
+  114.login/
+
+  115.login1/
+
+  116.login_admin/
+
+  117.login_db/
+
+  118.login_out/
+
+  119.loginerror/
+
+  120.     loginflat/
+
+  121.     loginok/
+
+  122.     loginsave/
+
+  123.     loginsuper/
+
+  124.     logo_sysadmin/
+
+  125.     logout/
+
+  126.     macadmin/
+
+  127.     manage/
+
+  128.     management/
+
+  129.     manager/
+
+  130.     manuallogin/
+
+  131.     member/
+
+  132.     memberadmin/
+
+  133.     members/
+
+  134.     memlogin/
+
+  135.     meta_login/
+
+  136.     moderator/
+
+  137.     modules/admin/
+
+  138.     myadmin/
+
+  139.     navSiteAdmin/
+
+  140.     newsadmin/
+
+  141.     openvpnadmin/
+
+  142.     pages/admin/
+
+  143.     panel-administracion/
+
+  144.     panel/
+
+  145.     pgadmin/
+
+  146.     platz_login/
+
+  147.     power_user/
+
+  148.     project-admins/
+
+  149.     pureadmin/
+
+  150.     radmind-1/
+
+  151.     radmind/
+
+  152.     rcLogin/
+
+  153.     registration/
+
+  154.     relogin.htm
+
+  155.     root/
+
+  156.     secret/
+
+  157.     secrets/
+
+  158.     secure/
+
+  159.     security/
+
+  160.     server_admin_small/
+
+  161.     showlogin/
+
+  162.     sign-in/
+
+  163.     sign_in/
+
+  164.     signin/
+
+  165.     simpleLogin/
+
+  166.     siteadmin/
+
+  167.     smblogin/
+
+  168.     sql-admin/
+
+  169.     ss_vms_admin_sm/
+
+  170.     sshadmin/
+
+  171.     staradmin/
+
+  172.     sub-login/
+
+  173.     super1/
+
+  174.     superman/
+
+  175.     superuser/
+
+  176.     supervise/
+
+  177.     supervisor/
+
+  178.     support_login/
+
+  179.     sys-admin/
+
+  180.     sysadm/
+
+  181.     sysadmin/
+
+  182.     sysadmins/
+
+  183.     system-administration/
+
+  184.     system_administration/
+
+  185.     typo3/
+
+  186.     ur-admin/
+
+  187.     user/
+
+  188.     useradmin/
+
+  189.     users/
+
+  190.     usr/
+
+  191.     utility_login/
+
+  192.     uvpanel/
+
+  193.     vadmind/
+
+  194.     vmailadmin/
+
+  195.     vorod/
+
+  196.     vorud/
+
+  197.     webadmin/
+
+  198.     webmaster/
+
+  199.     wizmysqladmin/
+
+  200.     wp-admin/
+
+  201.     wp-login/
+
+  202.     xlogin/
+
+
+
+
+
+
+
+
+
+
+
+admin.%XT%
+login.htm
+login.html
+login/
+login.%XT%
+adm/
+admin/
+admin/account.html
+admin/login.html
+admin/login.htm
+admin/home.%XT%
+admin/controlpanel.html
+admin/controlpanel.htm
+admin/cp.%XT%
+admin/adminLogin.html
+admin/adminLogin.htm
+admin/admin_login.%XT%
+admin/controlpanel.%XT%
+admin/admin-login.%XT%
+admin-login.%XT%
+admin/account.%XT%
+admin/admin.%XT%
+admin.htm
+admin.html
+adminitem/
+adminitem.%XT%
+adminitems/
+adminitems.%XT%
+administrator/
+administrator/login.%XT%
+administrator.%XT%
+administration/
+administration.%XT%
+adminLogin/
+adminlogin.%XT%
+admin_area/admin.%XT%
+admin_area/
+admin_area/login.%XT%
+manager/
+manager.%XT%
+letmein/
+letmein.%XT%
+superuser/
+superuser.%XT%
+access/
+access.%XT%
+sysadm/
+sysadm.%XT%
+superman/
+supervisor/
+panel.%XT%
+control/
+control.%XT%
+member/
+member.%XT%
+members/
+members.%XT%
+user/
+user.%XT%
+cp/
+uvpanel/
+manage/
+manage.%XT%
+management/
+management.%XT%
+signin/
+signin.%XT%
+log-in/
+log-in.%XT%
+log_in/
+log_in.%XT%
+sign_in/
+sign_in.%XT%
+sign-in/
+sign-in.%XT%
+users/
+users.%XT%
+accounts/
+accounts.%XT%
+wp-login.php
+bb-admin/login.%XT%
+bb-admin/admin.%XT%
+bb-admin/admin.html
+administrator/account.%XT%
+relogin.htm
+relogin.html
+check.%XT%
+relogin.%XT%
+blog/wp-login.%XT%
+user/admin.%XT%
+users/admin.%XT%
+registration/
+processlogin.%XT%
+checklogin.%XT%
+checkuser.%XT%
+checkadmin.%XT%
+isadmin.%XT%
+authenticate.%XT%
+authentication.%XT%
+auth.%XT%
+authuser.%XT%
+authadmin.%XT%
+cp.%XT%
+modelsearch/login.%XT%
+moderator.%XT%
+moderator/
+controlpanel/
+controlpanel.%XT%
+admincontrol.%XT%
+adminpanel.%XT%
+fileadmin/
+fileadmin.%XT%
+sysadmin.%XT%
+admin1.%XT%
+admin1.html
+admin1.htm
+admin2.%XT%
+admin2.html
+yonetim.%XT%
+yonetim.html
+yonetici.%XT%
+yonetici.html
+phpmyadmin/
+myadmin/
+ur-admin.%XT%
+ur-admin/
+Server.%XT%
+Server/
+wp-admin/
+administr8.%XT%
+administr8/
+webadmin/
+webadmin.%XT%
+administratie/
+admins/
+admins.%XT%
+administrivia/
+Database_Administration/
+useradmin/
+sysadmins/
+admin1/
+system-administration/
+administrators/
+pgadmin/
+directadmin/
+staradmin/
+ServerAdministrator/
+SysAdmin/
+administer/
+LiveUser_Admin/
+sys-admin/
+typo3/
+panel/
+cpanel/
+cpanel_file/
+platz_login/
+rcLogin/
+blogindex/
+formslogin/
+autologin/
+support_login/
+meta_login/
+manuallogin/
+simpleLogin/
+loginflat/
+utility_login/
+showlogin/
+memlogin/
+login-redirect/
+sub-login/
+wp-login/
+login1/
+dir-login/
+login_db/
+xlogin/
+smblogin/
+customer_login/
+UserLogin/
+login-us/
+acct_login/
+bigadmin/
+project-admins/
+phppgadmin/
+pureadmin/
+sql-admin/
+radmind/
+openvpnadmin/
+wizmysqladmin/
+vadmind/
+ezsqliteadmin/
+hpwebjetadmin/
+newsadmin/
+adminpro/
+Lotus_Domino_Admin/
+bbadmin/
+vmailadmin/
+Indy_admin/
+ccp14admin/
+irc-macadmin/
+banneradmin/
+sshadmin/
+phpldapadmin/
+macadmin/
+administratoraccounts/
+admin4_account/
+admin4_colon/
+radmind-1/
+Super-Admin/
+AdminTools/
+cmsadmin/
+SysAdmin2/
+globes_admin/
+cadmins/
+phpSQLiteAdmin/
+navSiteAdmin/
+server_admin_small/
+logo_sysadmin/
+power_user/
+system_administration/
+ss_vms_admin_sm/
+bb-admin/
+panel-administracion/
+instadmin/
+memberadmin/
+administratorlogin/
+adm.%XT%
+admin_login.%XT%
+panel-administracion/login.%XT%
+pages/admin/admin-login.%XT%
+pages/admin/
+acceso.%XT%
+admincp/login.%XT%
+admincp/
+adminarea/
+admincontrol/
+affiliate.%XT%
+adm_auth.%XT%
+memberadmin.%XT%
+administratorlogin.%XT%
+modules/admin/
+administrators.%XT%
+siteadmin/
+siteadmin.%XT%
+adminsite/
+kpanel/
+vorod/
+vorod.%XT%
+vorud/
+vorud.%XT%
+adminpanel/
+PSUser/
+secure/
+webmaster/
+webmaster.%XT%
+autologin.%XT%
+userlogin.%XT%
+admin_area.%XT%
+cmsadmin.%XT%
+security/
+usr/
+root/
+secret/
+admin/login.%XT%
+admin/adminLogin.%XT%
+moderator.php
+moderator.html
+moderator/login.%XT%
+moderator/admin.%XT%
+yonetici.%XT%
+0admin/
+0manager/
+aadmin/
+cgi-bin/login%XT%
+login1%XT%
+login_admin/
+login_admin%XT%
+login_out/
+login_out%XT%
+login_user%XT%
+loginerror/
+loginok/
+loginsave/
+loginsuper/
+loginsuper%XT%
+login%XT%
+logout/
+logout%XT%
+secrets/
+super1/
+super1%XT%
+super_index%XT%
+super_login%XT%
+supermanager%XT%
+superman%XT%
+superuser%XT%
+supervise/
+supervise/Login%XT%
+super.%XT%
+
+
